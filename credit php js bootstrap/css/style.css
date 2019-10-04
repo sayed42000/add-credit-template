@@ -1,0 +1,50 @@
+*{
+    margin: o;
+    padding: 0;
+}
+.login{
+ 
+    background-image: url('../img/income.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+center{
+    margin-top: 100px;
+}
+.card-image{
+    height: 172px;
+}
+.card{
+    background-size: cover;
+}
+h5{
+    margin-left: 47px;
+}
+
+
+/*=========================signup==========================*/
+.signup{
+    background-image: url('../img/signuppic.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.signup-title{
+    margin-bottom: 20px;
+}
+
+/*======================information desk==================*/
+.jumbo{
+    padding:4rem 2rem;
+}
+.button-left{
+    float: right;
+}
+.expense{
+    color: black;
+    
+}
+.information{
+    background-color: white;
+    
+}
